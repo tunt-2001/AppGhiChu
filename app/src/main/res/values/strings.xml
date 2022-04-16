@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ghi Chú</string>
+    <string name="delete_confirmation">Xác Nhận</string>
+    <string name="sureToDelete">Bạn có chắc chắn muốn XÓA ghi chú</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="confirmation">Bạn đã hoàn thành công việc.....</string>
+    <string name="sureToMarkAsComplete">Bạn có muốn đánh dấu công việc đã hoàn thành ..</string>
+    <string name="congrats_you_have_completed_the_task_successfully">Chúc mừng!... Bạn đã hoàn thành công việc..</string>
+</resources>
